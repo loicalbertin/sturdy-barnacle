@@ -1,4 +1,4 @@
-name: CI
+name: Delete Merge Branches
 
 on: 
   pull_request:
